@@ -1,0 +1,472 @@
+{
+  "main": {
+    "id": "9518fcc153187d0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "baf467eb9511d6f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c1e155363677bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "17c30840290cf58e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Основные понятия эргономики интеркативных систем. Понятие пользовательского интерфейса.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Основные понятия эргономики интеркативных систем. Понятие пользовательского интерфейса"
+            }
+          },
+          {
+            "id": "df33703d6234e108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Основные психологические факторы взаимодействия человека и ЭВМ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Основные психологические факторы взаимодействия человека и ЭВМ"
+            }
+          },
+          {
+            "id": "dae5e9b392cb22e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Время ожидания ответа.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Время ожидания ответа"
+            }
+          },
+          {
+            "id": "db6bc0859bbe646f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Сообщения об ошибках.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Сообщения об ошибках"
+            }
+          },
+          {
+            "id": "71faa2b7f286da0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Привычки пользователя.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Привычки пользователя"
+            }
+          },
+          {
+            "id": "09dbbd45414cad95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Подходы к разработке интерфейса ЧЕЛОВЕК-МАШИНА.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Подходы к разработке интерфейса ЧЕЛОВЕК-МАШИНА"
+            }
+          },
+          {
+            "id": "7958223996632baf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Основные методологии разработки интерфейсов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Основные методологии разработки интерфейсов"
+            }
+          },
+          {
+            "id": "f43c5b87b2565b8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Процесс разработки интерфейса.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. Процесс разработки интерфейса"
+            }
+          },
+          {
+            "id": "82437fbfb1c082bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9. Модели пользовательского интерфейса.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Модели пользовательского интерфейса"
+            }
+          },
+          {
+            "id": "534459148c5254d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Метафорическое проектирование.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Метафорическое проектирование"
+            }
+          },
+          {
+            "id": "a9d41a347706274d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11. Идиоматическое проектирование.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. Идиоматическое проектирование"
+            }
+          },
+          {
+            "id": "334f00760f2bd175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12. Соображения по выбору и созданию окон. Лишние окна..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12. Соображения по выбору и созданию окон. Лишние окна."
+            }
+          },
+          {
+            "id": "a7af4f4bf2d64193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. Соображения по выбору и созданию окон. Необходимые окна.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13. Соображения по выбору и созданию окон. Необходимые окна"
+            }
+          },
+          {
+            "id": "8822763e3f412e3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14. Соображения по выбору и созданию окон. Загрязнение окнами.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14. Соображения по выбору и созданию окон. Загрязнение окнами"
+            }
+          },
+          {
+            "id": "05e00f5d1cac0675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "15. Структура окна.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15. Структура окна"
+            }
+          },
+          {
+            "id": "62f2dc3d0f03e71c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16. Композиция информации на экране..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16. Композиция информации на экране."
+            }
+          },
+          {
+            "id": "328deee0798b9a82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17. Характеристики шрифтов..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17. Характеристики шрифтов."
+            }
+          },
+          {
+            "id": "34bfa60d6f413d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Подходы к разработке интерфейса ЧЕЛОВЕК-МАШИНА.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Подходы к разработке интерфейса ЧЕЛОВЕК-МАШИНА"
+            }
+          }
+        ],
+        "currentTab": 18
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee6906c5c64293b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a1845672a5a5d7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "883a3c7b30a8df67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "54c77dc8580f8ae5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ec4fd626d8607c7b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "280d9bd4df533b63",
+    "type": "split",
+    "children": [
+      {
+        "id": "26fbf1f3d48ff25e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5cdc8b63c805fdc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6. Подходы к разработке интерфейса ЧЕЛОВЕК-МАШИНА.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 6. Подходы к разработке интерфейса ЧЕЛОВЕК-МАШИНА"
+            }
+          },
+          {
+            "id": "179330f3c8e05ed8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Основные психологические факторы взаимодействия человека и ЭВМ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2. Основные психологические факторы взаимодействия человека и ЭВМ"
+            }
+          },
+          {
+            "id": "e014ef2b1c610255",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "baeae14a98e7f63b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "00fae49877038453",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6. Подходы к разработке интерфейса ЧЕЛОВЕК-МАШИНА.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 6. Подходы к разработке интерфейса ЧЕЛОВЕК-МАШИНА"
+            }
+          },
+          {
+            "id": "68f2e10042241b49",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "68f2e10042241b49",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "6. Подходы к разработке интерфейса ЧЕЛОВЕК-МАШИНА.md",
+    "4. Сообщения об ошибках.md",
+    "3. Время ожидания ответа.md",
+    "5. Привычки пользователя.md",
+    "2. Основные психологические факторы взаимодействия человека и ЭВМ.md",
+    "1. Основные понятия эргономики интеркативных систем. Понятие пользовательского интерфейса.md",
+    "18. Поддержка пользователя.md",
+    "17. Характеристики шрифтов..md",
+    "16. Композиция информации на экране..md",
+    "15. Структура окна.md",
+    "14. Соображения по выбору и созданию окон. Загрязнение окнами.md",
+    "13. Соображения по выбору и созданию окон. Необходимые окна.md",
+    "12. Соображения по выбору и созданию окон. Лишние окна..md",
+    "11. Идиоматическое проектирование.md",
+    "10. Метафорическое проектирование.md",
+    "9. Модели пользовательского интерфейса.md",
+    "8. Процесс разработки интерфейса.md",
+    "7. Основные методологии разработки интерфейсов.md"
+  ]
+}
